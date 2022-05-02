@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React hooks imagas finder
+      React hooks feedback
     </div>
   );
 };
