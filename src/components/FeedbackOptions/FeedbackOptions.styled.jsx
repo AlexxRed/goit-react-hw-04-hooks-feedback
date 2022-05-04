@@ -16,7 +16,7 @@ export const Button = styled.button`
 export const NeutralButton = styled.button`
     background-color: green;
     font-size: 14px;
-    color: darkblue;
+    color: #4b4b83;
     padding: 5px;
     margin-right: 10px;
     border-radius: 5px;
