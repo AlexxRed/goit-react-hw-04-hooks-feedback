@@ -1,12 +1,13 @@
 import styled from '@emotion/styled'
 
-export const GoodButton = styled.button`
+export const Button = styled.button`
     background-color: #258c79;
     font-size: 14px;
     padding: 5px;
     margin-right: 10px;
     color: darkblue;
     border-radius: 5px;
+    height: 30px;
     cursor: pointer;
     &:hover,&:focus {
         color: #b81818;
